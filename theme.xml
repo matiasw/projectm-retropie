@@ -1,0 +1,10 @@
+<theme>
+  <systemView>
+    <image>art/systems/projectm.svg</image>
+    <textColor>#FFFFFF</textColor>
+  </systemView>
+  <homeMenu>
+    <image>art/screens/projectm.svg</image>
+    <textColor>#FFFFFF</textColor>
+  </homeMenu>
+</theme>
